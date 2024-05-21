@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "48096227260",
+    "firebase_url": "https://carparking-4ce1e-default-rtdb.firebaseio.com",
+    "project_id": "carparking-4ce1e",
+    "storage_bucket": "carparking-4ce1e.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:48096227260:android:9b04334bdc7a0e065205b9",
+        "android_client_info": {
+          "package_name": "com.example.baidoxethongminh"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC3W_4emQe5-oxJBa1Y0WNGG-tJ7MC5-bE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
